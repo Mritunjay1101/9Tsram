@@ -145,3 +145,4 @@ Design Automation, 57.
 3. Design of Efficient Low Power Stable 4-Bit Memory Cell, K.
 Gavaskar, Assistant professor/ECE, Kongu Engineering College,
 Erode, India
+[Kunal Ghosh](#heading-1 "Goto https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/")
