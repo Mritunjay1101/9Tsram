@@ -9,47 +9,13 @@
 * Acknowledgements
 * References
 
-#INTRODUCTION
-RAM(Random)
-# 9Tsram
-## This repository contains details about the design and development of a 'Nine_Transistors' SRAM CELL under a hackathon organized by IIT Hyderabad along with Synopsys.
-## Here the tool used is Synopsys Custom Compiler.
-#Introduction
-SRAM (static random access memory) is a type of
-semiconductor random access memory that uses latches or
-flip-flops to store data, and the data in it is stored indefinitely
-provided the power is applied continuously. The other type of
-random access memory is the DRAM (dynamic random
-access memory), also a semiconductor MOS memory, that
-uses a capacitor and a transistor to store data. Both SRAM
-and DRAM are volatile memories. SRAM is more popular
-despite its high cost and low packing density as compared to
-DRAM because of its high speed, i.e., data can be read from
-the cell at a much faster rate from SRAM compared to
-DRAM. Also, SRAM does not need periodic refreshing like
-the DRAM. Thus, SRAM is a choice for designers in
-applications where high speed is a must, and the high cost of
-the cell is tolerable as in the case of cache memory designing.
-In the present time, where portable battery-operated devices
-have become very common, power dissipation and area have
-become major concerns leading to the demand for small and
-low power consuming devices. Day by day, the scale of
-integration is increasing to meet the small-sized and
-high-density chips. This technology scaling results in
-instability in SRAM cell operations. Conventional SRAM cell
-suffers from various problems at smaller-scaled technology
-like leakage current, read stability, etc. To achieve a design
-that can work at smaller-scaled technology, various SRAM
-cells have been developed. Since there exists a trade-off
-between different parameters of an SRAM cell, so achieving
-all the aspects in a single design is not possible. Therefore,
-different designs depending upon different requirements in
-different applications are developed by focusing on the
-optimization of one or more parameters. This paper discusses
-various SRAM cells that consist of a different number of
-transistors and have some improved factors as compared to
-one another and the advantages and disadvantages of
-different SRAM cells are also seen.
+# Introduction
+This repository contains details about the design and development of a 'Nine_Transistors' SRAM CELL under a hackathon organized by IIT Hyderabad and sponsored by Synopsys.
+Here the tool used is Synopsys 'Custom-Compiler', which was used for schematics design and the  'Synopsis- Primewave' was is for the waveforms generation.
+ 
+# Introduction
+Any microprocessor requires high performance memory to access data exchange at very speeds, these memory units are designed with this SRAM technology, the fundamental bulilding block of such a memory unit is an SRAM cell.An SRAM (static random access memory) is a type of memory cell that is used to store one bit(0,1) of information, it fundamentally uses a latch(maade with MOSFETS) to store the information. Other type of memory that exists is a DRAM cell, which is made up of a capacitor and a MOSFET.But for high speed memory design former is considered.Both SRAM and DRAM are volatile memories. SRAM is more popular despite its high cost and low packing density as compared to DRAM because of its high speed, i.e., data can be read from the cell at a much faster rate.SRAM does not need periodic refreshing like the DRAM.
+
 # Different Memories
 2.1 Conventional 6T SRAM Cell
 The conventional SRAM cell [1] made of 6 MOSFETs is the
