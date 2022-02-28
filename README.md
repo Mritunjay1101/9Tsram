@@ -1,4 +1,17 @@
 # Table of Contents
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+Introduction
+Device Characterization
+Circuit Design
+Simulation Results
+Performance Comparison
+Conclusion
+Author
+Acknowledgements
+References
 
 #INTRODUCTION
 RAM(Random)
