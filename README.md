@@ -129,7 +129,7 @@ time.
 Mritunjay, BE(ECE), Panjab University, Chandigarh
 
 # Acknowledgements
-* Kunal Ghosh, Co-founder, VSD Corp. Pvt Ltd.
+* [Kunal Ghosh, Co-founder, VSD Corp. Pvt Ltd.](#heading-1 "Goto https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0xcWjpLDThSEo6S9UPO9Tw%3D%3D")
 * Chinmaya Panda, IIT Hyderabad
 * SumantoKAr
 * Synopsys Team(Company)
@@ -145,4 +145,4 @@ Design Automation, 57.
 3. Design of Efficient Low Power Stable 4-Bit Memory Cell, K.
 Gavaskar, Assistant professor/ECE, Kongu Engineering College,
 Erode, India
-[Kunal Ghosh](#heading-1 "Goto https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/")
+
