@@ -129,19 +129,19 @@ time.
 Mritunjay, BE(ECE), Panjab University, Chandigarh
 
 # Acknowledgements
-Kunal Ghosh, Co-founder, VSD Corp. Pvt Ltd.
-Chinmaya Panda, IIT Hyderabad
-SumantoKAr
-Synopsys Team(Company)
-IIT Hyderabad
-Active and vibrant hackathon community
+* Kunal Ghosh, Co-founder, VSD Corp. Pvt Ltd.
+* Chinmaya Panda, IIT Hyderabad
+* SumantoKAr
+* Synopsys Team(Company)
+* IIT Hyderabad
+* Active and vibrant hackathon community
 # References
-[1] Jan, M., Rabaey, Anantha Chandrakasan and Borivoje
+1. Jan, M., Rabaey, Anantha Chandrakasan and Borivoje
 Nikolic (2003),”Digital Integrated Circuits”, ISBN 81-
 7808-991-2.
-[2] Agarwal, K. and Nassif, S. (2006), “Statistical Analysis of
+2. Agarwal, K. and Nassif, S. (2006), “Statistical Analysis of
 SRAM Stability”, Proceedings of 43rd Annual Conference on
 Design Automation, 57.
-[3] Design of Efficient Low Power Stable 4-Bit Memory Cell, K.
+3. Design of Efficient Low Power Stable 4-Bit Memory Cell, K.
 Gavaskar, Assistant professor/ECE, Kongu Engineering College,
 Erode, India
